@@ -13,8 +13,9 @@ All assignment capacities are split evenly between students and any remaining st
 
 ## Downloading and Running the Application
 To download and run in an executable:
-- From this GitHub, go to the releases section
-- Then...
+- Download the project from the GitHub and unzip it, store it somewhere you will remember
+- From this GitHub, go to the releases section and download the assigner.exe and assigner.pkg files
+- Then, move these files to the project folder under...
 
 To run from VSCode:
 - Open this project in VSCode
