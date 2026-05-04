@@ -14,8 +14,9 @@ All assignment capacities are split evenly between students and any remaining st
 ## Downloading and Running the Application
 To download and run in an executable:
 - Download the project from the GitHub and unzip it, store it somewhere you will remember
-- From this GitHub, go to the releases section and download the assigner.exe and assigner.pkg files
-- Then, move these files to the project folder under...
+- From this GitHub, go to the releases section and download the `assigner.exe` and `assigner.pkg` files
+- Then, move these files to the project folder you downloaded under the `AI-Final-Otherguys-main` folder, then under the `Final` folder
+- From here you can open the executable from in the `Final` folder or set it as a desktop shortcut and access it from there to see the project UI
 
 To run from VSCode:
 - Open this project in VSCode
@@ -30,7 +31,7 @@ If you want to run the app's tests in VSCode:
 - This should then display a list of test prompts telling you whether or not the prompts are passed
 
 ## Using the Application
-In order to use the application, open the application, choose a given project CSV file, a student csv file, and...
+In order to use the application, open the application, choose a given project CSV file, a student csv file, and then hit the optimize button to see all optimized project outputs. Click on the desired project to see students who picked that project as their 1st or 2nd choice and who was actually assigned to each project. There is also the opportunity to output these assigned students to a CSV file using a button. 
 
 ## Example of Project CSV Input 
 ```csv
